@@ -1,0 +1,22 @@
+2024-02-20 21:24:25,766 root INFO  this is my info logging 
+2024-02-20 21:24:25,766 root ERROR  this is my error msg
+2024-02-20 21:24:25,766 root CRITICAL  this is my critical
+2024-02-20 21:25:41,275 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,275 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,275 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,275 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  i am inside if statement and i am trying to check list type[2, 3, 4]
+2024-02-20 21:25:41,276 root INFO  i am in anothe for loop for list inside list element 2
+2024-02-20 21:25:41,276 root INFO  i am inside if statement
+2024-02-20 21:25:41,276 root INFO  i am in anothe for loop for list inside list element 3
+2024-02-20 21:25:41,276 root INFO  i am inside if statement
+2024-02-20 21:25:41,276 root INFO  i am in anothe for loop for list inside list element 4
+2024-02-20 21:25:41,276 root INFO  i am inside if statement
+2024-02-20 21:25:41,276 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  we are iterating through our list and our local var is [1, 2, 3, 4, 5, 6, 1, 23, [2, 3, 4], 'sharmistha', 'kundu']
+2024-02-20 21:25:41,276 root INFO  my final result for int is [1, 2, 3, 4, 5, 6, 1, 23, 2, 3, 4] and str is ['sharmistha', 'kundu']
